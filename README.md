@@ -1,3 +1,44 @@
+# Prueba para Desarrollado FrontEnd - Nivelics
+
+_Objetivo: Realizar la página web con sus estilos respectivos en React basándose en el diseño compartido en [Figma](https://www.figma.com/file/uZxPKPcmFh7or2ln9G6tS0/Prueba-t%C3%A9cnica-2021-Octubre?node-id=0%3A1)._
+
+_Presentada por: Pilar Camargo Márquez_
+- [Página personal](https://about.me/justoneye)
+- [GitHub](https://github.com/justoneye)
+- [LinkedIn](https://www.linkedin.com/in/pilarcamargo)
+
+
+## Herramientas utilizadas
+
+- HTML 5
+- CSS 3
+- React 17.0.2
+- Bootstrap 5.1.3
+
+
+## Requisitos
+
+* Diseño responsive.
+* Debe ver bien tanto en dispositivos de escritorio como en dispositivos móviles.
+
+_Funcionalidades Plus:_
+* Modal
+* Slider
+* Menú hamburguesa.
+
+## Contenido Multimedia
+
+Para efectos prácticos y llevar a cabo el ejercicio el contenido de la página (imágenes, íconos, logos, etc.) fueron tomados del archivo de Figma y los siguientes recursos gratuitos o libres:
+
+- Bootstrap Icons (https://icons.getbootstrap.com/)
+
+
+## Repositorio GitHub 
+
+https://github.com/justoneye/prueba-frontend-nivelics/
+
+...
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
